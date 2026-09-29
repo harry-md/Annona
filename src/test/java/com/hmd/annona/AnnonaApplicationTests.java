@@ -1,0 +1,13 @@
+package com.hmd.annona;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class AnnonaApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
